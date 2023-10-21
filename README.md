@@ -1,0 +1,2 @@
+# Qrcode
+ajuda humanitária
